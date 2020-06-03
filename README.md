@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner1.png" >
+  <img src="banner1.jpg" >
 </p>
 
 # Matheus Martins
