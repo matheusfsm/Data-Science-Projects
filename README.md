@@ -1,2 +1,2 @@
 # datascience_steps
-My data science projects
+My Data Science projects
