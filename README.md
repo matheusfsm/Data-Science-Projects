@@ -13,4 +13,4 @@ Agrupando meus conhecimentos, em 2020 dei início a uma nova jornada numa gradua
 
 ## Projetos:
 
-* **Analisando dados do Airbnb (Rio de Janeiro):** https://bit.ly/2MIEtLc
+* **Analisando dados do Airbnb (Rio de Janeiro):** https://bit.ly/3cMsczE
