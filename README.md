@@ -15,3 +15,4 @@ Agrupando meus conhecimentos, em 2020 dei início a uma nova jornada numa gradua
 
 * **Analisando dados do Airbnb (Rio de Janeiro):** https://bit.ly/3cMsczE
 * **Analisando dados de Acidentes de Trânsito (São Paulo):** https://bit.ly/2BQZkcO
+* **Utilizando o bar_chart_race com os dados do Covid no Brasil:**https://bit.ly/2UQSSZZ
