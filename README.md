@@ -3,7 +3,9 @@
   <img src="banner1.jpg" >
 </p>
 
-# Matheus Martins | Graduating in Big Data and Analytical Intelligence, Data Science, Machine Learning | Technology Enthusiast
+# Matheus Martins 
+Graduating in Big Data and Analytical Intelligence| Data Science, Machine Learning in training | Technology Enthusiast
+
 I want to be part of the next digital revolutions, this time from the inside.
 
 The processing of information relevant to our development has become a difficult task, entertainment generates a lot of information that, instead of helping, ends up making it difficult due to excess.
