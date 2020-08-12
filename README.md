@@ -4,7 +4,7 @@
 </p>
 
 
-Graduating in Big Data and Analytical Intelligence | Data Science, Machine Learning in training | Technology Enthusiast
+#Graduating in Big Data and Analytical Intelligence | Data Science, Machine Learning in training | Technology Enthusiast
 
 I want to be part of the next digital revolutions, this time from the inside.
 
