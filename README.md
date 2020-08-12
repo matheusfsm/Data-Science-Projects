@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner1.jpg" >
+  <img src="https://github.com/matheusfsm/datascience_steps/blob/master/image-from-rawpixel-id-2414693-jpeg.jpg" >
 </p>
 
 # Matheus Martins 
