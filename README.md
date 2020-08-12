@@ -3,14 +3,14 @@
   <img src="banner1.jpg" >
 </p>
 
-# Matheus Martins
-Quero fazer parte das próximas revoluções digitais, desta vez por dentro.
+# Matheus Martins | Graduating in Big Data and Analytical Intelligence, Data Science, Machine Learning | Technology Enthusiast
+I want to be part of the next digital revolutions, this time from the inside.
 
-O processamento de informações relevantes para o nosso desenvolvimento tornou-se uma tarefa difícil, o entretenimento gera muitas informações que, em vez de ajudar, acabam dificultando devido ao excesso.
+The processing of information relevant to our development has become a difficult task, entertainment generates a lot of information that, instead of helping, ends up making it difficult due to excess.
 
-Hoje, estudando técnicas de 'ciência de dados', 'aprendizado de máquina', 'big data' e outros assuntos que envolvem dados, percebo que as empresas também têm dificuldades em transformar todas essas informações em valores reais que, sem dúvida, podem determinar a saúde financeira e conseqüentemente, a sobrevivência de uma empresa, com isso em mente e com muito amor pelo conhecimento, contribuirei em um futuro próximo com meu dinamismo e com todo o aprendizado que adquiri ao longo dos anos.
+Today, studying 'data science', 'machine learning' techniques, 'big data' and others subjects that involve data, I realize that companies also have difficulties in transforming all this information into real values, which, without a doubt can determine the performance and consequently, the survival of a company, with that in mind and with a lot of love for knowledge, I will contribute shortly with my dynamism and with all the learning I have acquired over the years.
 
-O ambiente de engenharia me levou a resolver problemas, agora em transição de carreira, quero levar meu esforço para a era dos dados. 
+The engineering environment led me to solve problems, now in career transition, I want to take my effort into the data age. 
 
 **Links:**
 * [LinkedIn](www.linkedin.com/in/matheusfsm)
